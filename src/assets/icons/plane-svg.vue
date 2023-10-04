@@ -1,0 +1,26 @@
+<template>
+  <div class="svg">
+    <svg
+      enable-background="new 0 0 71 71"
+      height="71px"
+      id="Layer_1"
+      version="1.1"
+      viewBox="0 0 71 71"
+      width="71px"
+      xml:space="preserve"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+    >
+      <path
+        d="M0,0l3,71l25.893-14.47L35,67l9.315-16.937L71,43L0,0z M35,60L8,12l33,37L35,60z"
+        fill="#231F20"
+      />
+    </svg>
+  </div>
+</template>
+
+<script>
+export default {};
+</script>
+
+<style scoped></style>
